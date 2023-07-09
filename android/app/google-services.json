@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220514629749",
+    "project_id": "movieplex-e636c",
+    "storage_bucket": "movieplex-e636c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220514629749:android:aa6e069a9b7188c6cfa03c",
+        "android_client_info": {
+          "package_name": "com.example.webview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220514629749-22q3obb6md675ki9b0upfpcs4amdj3ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhqy3-DxpxfSmjLie1W_XCg-fDoMOMrqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220514629749-22q3obb6md675ki9b0upfpcs4amdj3ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
